@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 3a014cc7f552f49378881fc50a61dfa7
+  - enabled: 1
+    path: Assets/Scenes/LiminalMan3D.unity
+    guid: 1515a07478de049468f784014bf9380b
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: e723a381988fb4c13ad08bfaef66010a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8c35d1750f3774a4e8561e34bd9daae0, type: 2}
